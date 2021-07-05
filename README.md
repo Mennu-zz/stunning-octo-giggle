@@ -18,7 +18,7 @@ Problem Statement - For a given web url count the number of word occurrences in 
 
 - Docker Compose should mount the FE and BE with the below command.
 
-    ```docker-compose up```
+    ```docker compose up```
 
 - Sit back and navigate to http://localhost
 
