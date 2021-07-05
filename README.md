@@ -30,6 +30,7 @@ Problem Statement - For a given web url count the number of word occurrences in 
 ## Tech Stack -
 
 BE: Node/Express
+
 FE: React
 
 As NodeJs is light weight and non-blocking nature i choose node and for further extending functionality to scale in case of large DOM i prefer adding Queues and handling the data processing in a different service. FE is on React as it is fast and simple for single page applications.
