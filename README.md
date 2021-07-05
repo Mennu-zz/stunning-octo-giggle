@@ -4,7 +4,7 @@ Problem Statement - For a given web url count the number of word occurrences in 
 
 ## Backend -
 
-[GET] /api/word-count?url=https://www.bbc.com - returns the word occurrences from the give url's DOM.
+[GET] /api/word-count?url=https://www.bbc.com - returns the word occurrences from the given url's DOM.
 - currently handles url with content type text/plain & text/html
 
 ## Frontend - Single Page App -
